@@ -1,6 +1,9 @@
 # Encrypted Network Traffic Classification in SDN
 This repository demonstrates the encrypted network traffic classification in SDN environment. A testbed is created using Mininet in this project. A RYU controller application is developed to classify network traffic in real-time. The controller application uses a machine learning (ML) model to classify the real-time traffic. The ML model is trained according to our proposed method mentioned in [4]. 
 
+The following diagram shows the system overview:
+![Alt text](./images/overview.png)
+
 # Demo
 The following video shows a demo of the application.
 
